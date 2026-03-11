@@ -39,12 +39,12 @@ When the system detects abnormal machine conditions:
  2.The dashboard displays the system status.
  3.The actuator is triggered automatically.
  
-Future Improvements
+Future Improvements:
  1.Integration with real vibration and temperature sensors
  2.Multi-machine monitoring
  3.Edge deployment for industrial environments
  4.Cloud-based predictive maintenance analytics
  5.Advanced anomaly detection models
 
- License
+ License:
  This project is intended for educational and research purposes.
