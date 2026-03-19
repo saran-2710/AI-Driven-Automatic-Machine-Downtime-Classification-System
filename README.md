@@ -1,4 +1,4 @@
-# AI-Driven-Automatic-Machine-Downtime-Classification-System
+# AI-Driven Automatic Machine Downtime Classification System
 An Industry 4.0 prototype that uses machine learning to detect abnormal machine conditions and trigger automated safety response through a real-time monitoring dashboard and actuator control.
 
 Overview:
